@@ -1,0 +1,16 @@
+flask
+flask-cors
+google-generativeai
+pymongo
+werkzeug
+python-dotenv
+langchain-google-genai
+PyPDF2
+pillow
+fastapi
+langchain-community
+langchain-openai
+langchain
+reportlab
+matplotlib
+pinecone-client
